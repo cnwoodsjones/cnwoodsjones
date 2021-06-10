@@ -13,10 +13,9 @@
 
 ![cnwoodsjones's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnwoodsjones&count_private=true&show_icons=true&theme=gotham)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnwoodsjones&repo=github-readme-stats&theme=gotham)](https://github.com/cnwoodsjones)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cnwoodsjones&repo=*&theme=gotham)](https://github.com/cnwoodsjones)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnwoodsjones&langs_count=20&theme=gotham)](https://github.com/cnwoodsjones)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnwoodsjones&layout=compact&langs_count=20&theme=gotham)](https://github.com/cnwoodsjones/github-readme-stats)
 
 <!--
 Updating README.md work in-process, v.0001
