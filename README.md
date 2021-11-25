@@ -12,9 +12,9 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: [redacted]
 
-### GitHub Stats
+<!-- ### GitHub Stats -->
 
-![cnwoodsjones's Github stats](https://github-readme-stats.vercel.app/api?username=cnwoodsjones&show_icons=true&hide_border=true&theme=gotham)
+<!-- ![cnwoodsjones's Github stats](https://github-readme-stats.vercel.app/api?username=cnwoodsjones&show_icons=true&hide_border=true&theme=gotham) -->
 
 
 ### GitHub Steaks
