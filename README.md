@@ -67,7 +67,36 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 -->
 
-
+![Go/Golang](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white&style=flat-square) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white&style=flat-square) 
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=flat-square) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white&style=flat-square) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white&style=flat-square) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?logo=solidity&logoColor=white&style=flat-square) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=flat-square) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white&style=flat-square) 
+![JWT/JSON Web Token](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=flat-square) 
+![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=flat-square) 
+![ROS ](https://img.shields.io/badge/ros-%230A0FF9.svg?logo=ros&logoColor=white&style=flat-square) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=flat-square) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=flat-square) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=flat-square) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black&style=flat-square) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=flat-square) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat-square) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=flat-square) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white&style=flat-square) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=flat-square) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=flat-square) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white&style=flat-square) 
+![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?logo=gitpod&logoColor=white&style=flat-square) 
+![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?logo=mercurial&logoColor=white&style=flat-square) 
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?logo=discord&logoColor=white&style=flat-square) 
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white&style=flat-square) 
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat-square) 
+![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?logo=Signal&logoColor=white&style=flat-square) 
+![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?logo=Twitter&logoColor=white&style=flat-square) 
 
 
 
