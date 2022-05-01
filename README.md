@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
-
 - 🔭 I’m currently working on waaaaaaaaaay too many projects
 - 🌱 I’m currently learning more about Go/QUIC/SmartContracts/Consensus Networks & Protocols 
 - 👯 I’m looking to collaborate on Proof-of-Stake/Authority/Compute Networks & Protocols 
@@ -14,7 +11,7 @@
 
 <!-- ### GitHub Stats -->
 
-<!-- ![cnwoodsjones's Github stats](https://github-readme-stats.vercel.app/api?username=cnwoodsjones&show_icons=true&hide_border=true&theme=gotham) -->
+![cnwoodsjones's Github stats](https://github-readme-stats.vercel.app/api?username=cnwoodsjones&show_icons=true&hide_border=true&theme=gotham)
 
 
 ### GitHub Steaks
@@ -48,25 +45,11 @@
 <!--
 <img src=""/>
 
-<img src=""/>
-<img src=""/>
-<img src=""/>
-
-
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
-
-<img src=""/>
-<img src=""/>
-<img src=""/>
-<img src=""/>
 
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
 
 -->
-
+<!-- 
 ![Go/Golang](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white&style=flat-square) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white&style=flat-square) 
@@ -100,16 +83,6 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 
 
 
-
-
-
-
-
-
-
-
-
-
 ![Visitor Count](https://profile-counter.glitch.me/{cnwoodsjones}/count.svg)
 <!-- 
 
@@ -135,4 +108,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
